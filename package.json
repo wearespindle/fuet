@@ -1,6 +1,6 @@
 {
   "name": "@vialer/vue-compiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and fast template compiler for Vue 2.",
   "bin": {
     "vc": "./index.js"
