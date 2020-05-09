@@ -1,6 +1,6 @@
 {
   "name": "@vialer/vue-compiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and fast template compiler for Vue 2.",
   "bin": {
     "vc": "./index.js"
@@ -14,11 +14,11 @@
   "repository": "https://github.com/vialer/vue-compiler",
   "dependencies": {
     "convert-source-map": "^1.5.1",
-    "glob": "7.1.x",
-    "hash-sum": "1.0.x",
-    "source-map": "0.6.x",
-    "vue-template-compiler": "2.5.x",
-    "vue-template-es2015-compiler": "1.6.x",
-    "yargs": "8.0.x"
+    "glob": "^7.x",
+    "hash-sum": "^2.0.0",
+    "source-map": "^0.x",
+    "vue-template-compiler": "^2.x",
+    "vue-template-es2015-compiler": "^1.x",
+    "yargs": "^15.3.1"
   }
 }
